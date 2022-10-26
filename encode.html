@@ -82,19 +82,14 @@
 内容`,
             prop: `"date": "22.22.22",
 "title": "メモ",
-"img": "",
-"topics": [""],
-"author": {
-  "name": "K",
-  "avatar": "https://kllc.github.io/repo/img/user.png",
-  "message": "コピペエンジニアです"
-}`,
+"img": ""
+`,
           };
         },
         computed: {
           blogurl: function () {
             return (
-              "https://kllc.github.io/blog/?html=" +
+              "https://kllc.github.io/resume/?html=" +
               LZString.compressToEncodedURIComponent(this.md) +
               "&prop=" +
               LZString.compressToEncodedURIComponent(this.prop)
