@@ -1,60 +1,65 @@
-# F1
+# 基本情報
 
-P
+- 氏名：木島 基文
+- 生年月：1974 年 12 月
+- 所属：Ｋ合同会社
+- 住所：滋賀県大津市
+- 最寄り駅：堅田
+- Mail：kijima@kllc.jp
+- Twitter: @kllcjp
 
-## F2
+<br />
 
-P
+## プロダクト
 
-### F3
+https://livelp.net  
+オンライン接客ツール「Live LP」
 
-P
+Azure B2C, Azure Cosmos DB,Azure Functions,Nuxt.js  
+などの技術を使い、制作しました。  
+代理店募集中です！ぜひよろしくお願いいたします。
 
-`Backquotes`
-_em_
-**_strong_**
-~~gfm~~
-[Link](https://google.com/)
+<br />
 
-hr
+# スキル
 
----
+## PR
 
-- list
-- list
-  - list2
-  - list2
-    - list3
-    - list3
+Dynamics 365、SharePoint、Power Apps、Power Automate、Power BI などの技術を利用した案件で、要件定義、基本設計、開発の経験があります。  
+エンドユーザー・エンジニア向けの Power BI 研修、エンドユーザー向けの SharePoint 基本操作研修など実施できます。  
+オフショア開発の経験が豊富で、オフショア開発案件のマネジメントが可能です。  
+前職では、消費者金融会社で、システム部門全体の責任者としてマネジメント経験があり、企業のシステム運営に関する幅広い経験と知識があります。  
+体力的、精神的にもタフで、常に前向きに御社の事業に貢献することが出来ます。
 
-1. numuber
-1. numuber
-   1. numuber
-   1. numuber
-      1. numuber
-      1. numuber
+## 開発言語
 
-> Blockquotes
->
-> > Blockquotes
+Javascript, VBA, C#, COBOL 他
 
-space 4
+## 言語
 
-    SPACE4
+| 言語   | レベル     |
+| :----- | :--------- |
+| 日本語 | ネイティブ |
+| 英語   | できない   |
+| 中国語 | できない   |
+| 韓国語 | できない   |
 
-code
+外国語はできないですが、日本語ネイティブではないエンジニアとのコミニュケーションは得意です。  
+中国、インドとのオフショア開発プロジェクトを成功させた経験があります。
 
-```ruby
-class Hoge
-  def hoge
-    print 'hoge'
-  end
-end
-```
+<br />
 
-table
+# 職務経歴
 
-| header1    |     header2 |   header3    |
-| :--------- | ----------: | :----------: |
-| align left | align right | align center |
-| a          |           b |      c       |
+### 経歴書ＰＤＦ
+
+[経歴書.pdf](経歴書（木島基文）.pdf)
+
+<br />
+
+### 活動
+
+- Twitter: [kllcjp](https://connpass.com/user/kijima1974/)
+- Connpass: [kijima1974](https://connpass.com/user/kijima1974/)
+- Youtube: [いるか](https://www.youtube.com/channel/UCo-lpJx0ZwGhRORLefffirA)
+- Qiita: [kllc](https://qiita.com/kllc)
