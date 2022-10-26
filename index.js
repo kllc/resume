@@ -5,7 +5,7 @@ export default () => {
       anchor: true,
     },
     {
-      src: "木島基文.md",
+      src: "木島 基文.md",
     },
     {
       src: "sample1.md",
