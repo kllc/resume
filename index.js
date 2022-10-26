@@ -6,6 +6,13 @@ export default () => {
     },
     {
       src: "sample1.md",
+    },
+    {
+      src: "sample1.md",
+      date: "22.1.1",
+    },
+    {
+      src: "sample1.md",
       date: "22.1.1",
       title: "サンプル",
       text: "サンプル",
