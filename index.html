@@ -161,7 +161,7 @@
                         Contain
                       ></v-img>
                       <v-card-title>
-                        {{title||src.slice(-3)==".md"?src.slice(0,-3):src}}
+                        {{title?title:src.slice(-3)==".md"?src.slice(0,-3):src}}
                       </v-card-title>
                       <v-card-text> {{text}} </v-card-text>
                       <span style="margin: 16px"> {{date}}</span>
@@ -184,7 +184,7 @@
                   />
                 </div>
                 <h1 align="center" :style="'margin-left: ' + center_margin">
-                  {{blogprop.title||blogprop.src.slice(-3)==".md"?blogprop.src.slice(0,-3):blogprop.src}}
+                  {{blogprop.title?blogprop.title:blogprop.src.slice(-3)==".md"?blogprop.src.slice(0,-3):blogprop.src}}
                 </h1>
                 <p
                   v-show="blogprop.date"
