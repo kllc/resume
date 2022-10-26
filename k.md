@@ -54,8 +54,6 @@ Javascript, VBA, C#, COBOL 他
 
 [経歴書.pdf](経歴書（木島基文）.pdf)
 
-<br />
-
 ## 活動
 
 - Twitter: [kllcjp](https://connpass.com/user/kijima1974/)
