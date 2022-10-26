@@ -5,6 +5,11 @@ export default () => {
       anchor: true,
     },
     {
+      src: "k.md",
+      date: "22.10.16",
+      title: "木島 基文 職務経歴書",
+    },
+    {
       src: "木島 基文.md",
     },
     {
