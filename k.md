@@ -6,7 +6,6 @@
 - 住所：滋賀県大津市
 - 最寄り駅：堅田
 - Mail：kijima@kllc.jp
-- Twitter: @kllcjp
 
 <br />
 
@@ -17,13 +16,13 @@ https://livelp.net
 
 Azure B2C, Azure Cosmos DB,Azure Functions,Nuxt.js  
 などの技術を使い、制作しました。  
-代理店募集中です！ぜひよろしくお願いいたします。
+代理店募集中です。ぜひよろしくお願いいたします。
 
 <br />
 
 # スキル
 
-## PR
+## ＰＲ
 
 Dynamics 365、SharePoint、Power Apps、Power Automate、Power BI などの技術を利用した案件で、要件定義、基本設計、開発の経験があります。  
 エンドユーザー・エンジニア向けの Power BI 研修、エンドユーザー向けの SharePoint 基本操作研修など実施できます。  
@@ -51,13 +50,13 @@ Javascript, VBA, C#, COBOL 他
 
 # 職務経歴
 
-### 経歴書ＰＤＦ
+## 経歴書ＰＤＦ
 
 [経歴書.pdf](経歴書（木島基文）.pdf)
 
 <br />
 
-### 活動
+## 活動
 
 - Twitter: [kllcjp](https://connpass.com/user/kijima1974/)
 - Connpass: [kijima1974](https://connpass.com/user/kijima1974/)
