@@ -8,6 +8,7 @@ export default () => {
       src: "k.md",
       date: "22.10.16",
       title: "木島 基文 職務経歴書",
+      img: "https://kllc.jp/images/kijima.png",
     },
     {
       src: "木島 基文.md",
