@@ -57,6 +57,7 @@ Javascript, VBA, C#, COBOL 他
 ## 活動
 
 - Twitter: [kllcjp](https://connpass.com/user/kijima1974/)
+- GitHub: [kllc](https://github.com/kllc)
 - Connpass: [kijima1974](https://connpass.com/user/kijima1974/)
 - Youtube: [いるか](https://www.youtube.com/channel/UCo-lpJx0ZwGhRORLefffirA)
 - Qiita: [kllc](https://qiita.com/kllc)
