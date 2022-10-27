@@ -9,6 +9,18 @@
 
 <br />
 
+## 資格
+
+IPA
+システム監査技術者
+プロジェクトマネージャ
+基本情報技術者
+
+DPTA
+無人航空機操縦士
+
+貸金業取扱主任者
+
 ## プロダクト
 
 https://livelp.net  
@@ -56,7 +68,7 @@ Javascript, VBA, C#, COBOL 他
 
 ## 活動
 
-- Twitter: [kllcjp](https://connpass.com/user/kijima1974/)
+- Twitter: [kllcjp](https://twitter.com/kllcjp)
 - GitHub: [kllc](https://github.com/kllc)
 - Connpass: [kijima1974](https://connpass.com/user/kijima1974/)
 - Youtube: [いるか](https://www.youtube.com/channel/UCo-lpJx0ZwGhRORLefffirA)
