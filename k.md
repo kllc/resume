@@ -84,16 +84,10 @@ Javascript, VBA, C#, COBOL 他
 
 [経歴書.pdf](経歴書（木島基文）.pdf)
 
-## 活動
+## その他
 
 Twitter: [kllcjp](https://twitter.com/kllcjp)  
 GitHub: [kllc](https://github.com/kllc)  
 Connpass: [kijima1974](https://connpass.com/user/kijima1974/)  
 Youtube: [いるか](https://www.youtube.com/channel/UCo-lpJx0ZwGhRORLefffirA)  
 Qiita: [kllc](https://qiita.com/kllc)
-
-<br/>
-
-# 条件など
-
-単価 85.0 万円～ 140-180 精算あり
