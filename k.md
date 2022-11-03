@@ -10,8 +10,8 @@ e-mail：kijima@kllc.jp
 
 ## 所属
 
-Ｋ合同会社　代表  
-技術・総務担当  
+Ｋ合同会社（[https://kllc.jp](https://kllc.jp)）  
+代表  
 (略歴)  
 1999 年 04 月 アイフル株式会社   入社  
 2005 年 05 月 株式会社ワイド   情報システム課長  
@@ -78,7 +78,7 @@ Javascript, VBA, C#, COBOL 他
 
 <br />
 
-# 技術者職務経歴
+# 経歴書添付、その他
 
 ## 経歴書ＰＤＦ
 
@@ -88,6 +88,6 @@ Javascript, VBA, C#, COBOL 他
 
 Twitter: [kllcjp](https://twitter.com/kllcjp)  
 GitHub: [kllc](https://github.com/kllc)  
-Connpass: [kijima1974](https://connpass.com/user/kijima1974/)  
+Connpass: [kijima](https://connpass.com/user/kijima1974/)  
 Youtube: [いるか](https://www.youtube.com/channel/UCo-lpJx0ZwGhRORLefffirA)  
 Qiita: [kllc](https://qiita.com/kllc)
